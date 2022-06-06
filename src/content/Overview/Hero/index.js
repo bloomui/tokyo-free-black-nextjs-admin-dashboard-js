@@ -132,7 +132,7 @@ function Hero() {
             component="a"
             target="_blank"
             rel="noopener"
-            href="https://bloomui.com/product/tokyo-free-black-react-nextjs-javascript-material-ui-admin-dashboard"
+            href="https://bloomui.com/product/tokyo-free-black-nextjs-javascript-material-ui-admin-dashboard/"
             size="large"
             variant="text"
           >
